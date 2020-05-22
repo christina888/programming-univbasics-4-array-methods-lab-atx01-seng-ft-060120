@@ -2,7 +2,7 @@ def using_include(array, element)
   if array.include?(element) do
     return true
   end
-  else do
+  else
     return false
  end
 end
