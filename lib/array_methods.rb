@@ -1,7 +1,4 @@
-require 'pry'
-
 def using_include(array, element)
-  binding.pry
   if array.include?(element) do
     return true
   end
