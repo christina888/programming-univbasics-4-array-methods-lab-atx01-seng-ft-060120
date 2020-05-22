@@ -4,7 +4,7 @@ def using_include(array, element)
   end
   else do
     return false
-end
+ end
 end
 
 def using_sort(array)
